@@ -1,0 +1,16 @@
+id: IA6949B69
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:11:45.591989
+last_modified: 2023-02-08 15:11:45.592121
+source_metadata:
+  title: Maitreyavyākaraṇa
+  language: sa
+bases:
+  '1584':
+    base_file: 1584.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
